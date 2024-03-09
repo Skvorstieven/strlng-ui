@@ -1,5 +1,5 @@
 {
-  "name": "strlng-react-library",
+  "name": "@skvorstieven/strlng-ui",
   "version": "1.0.0",
   "description": "SImple React library with Storybook support",
   "type": "module",
@@ -65,5 +65,8 @@
       "npm run lint",
       "npm run test"
     ]
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@skvorstieven"
   }
 }
