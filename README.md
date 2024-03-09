@@ -75,7 +75,6 @@
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
@@ -105,7 +104,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Learn how to create and host libraries
+- [ ] Learn how to create and host libraries
 - [ ] Populate library with components
 - [ ] Profit?
 
