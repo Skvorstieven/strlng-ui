@@ -104,7 +104,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Learn how to create and host libraries
+- [x] Learn how to create and host libraries
 - [ ] Populate library with components
 - [ ] Profit?
 
