@@ -80,11 +80,11 @@
   npm install npm@latest -g
   ```
 
-### Installation
+<!-- ### Installation
 * npm
   ```sh
   npm install stlng-ui
-  ```
+  ``` -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
